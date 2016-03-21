@@ -36,6 +36,11 @@ namespace Robots
             }
         }
 
+        public void StrongAttack()
+        {
+            
+        }
+
 
             
     }
